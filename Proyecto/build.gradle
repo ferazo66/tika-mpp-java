@@ -1,0 +1,14 @@
+apply plugin: 'eclipse-wtp'
+apply plugin: 'war'
+
+jar.enabled = false
+description = 'Proyecto'
+
+repositories {
+    mavenCentral()
+}
+dependencies {
+		compile group: 'net.sf.mpxj', name: 'mpxj', version: '5.6.5'
+		compile group: 'org.apache.tika', name: 'tika-core', version: '1.6'
+		testCompile 'junit:junit:4.12'
+    }

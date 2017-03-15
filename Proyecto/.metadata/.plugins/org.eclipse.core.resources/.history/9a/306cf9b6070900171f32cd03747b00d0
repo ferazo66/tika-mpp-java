@@ -1,0 +1,2 @@
+GRADLE_NATURES=org.eclipse.jdt.core.javanature,org.eclipse.wst.common.project.facet.core.nature,org.eclipse.wst.common.modulecore.ModuleCoreNature
+eclipse.preferences.version=1
