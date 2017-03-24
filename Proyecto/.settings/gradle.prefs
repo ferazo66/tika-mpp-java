@@ -1,8 +1,8 @@
 {
   "1.0": {
     "project_path": ":",
-    "project_dir": "C:\\workspaces\\Proyecto",
-    "connection_project_dir": "C:\\workspaces\\Proyecto",
+    "project_dir": "C:\\workspaces\\Proyecto\\Proyecto",
+    "connection_project_dir": "C:\\workspaces\\Proyecto\\Proyecto",
     "connection_gradle_user_home": null,
     "connection_gradle_distribution": "GRADLE_DISTRIBUTION(VERSION(3.1))",
     "connection_java_home": null,
